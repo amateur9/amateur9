@@ -2,7 +2,7 @@
 <p align = "center"> A beginner specialist in data analysis and ML. </p>
 
 <p align = "center" dir = "auto">
-  <a href = "https://www.linkedin.com/in/alexandresanlim/" rel = "nofollow">
+  <a href = "https://mail.google.com/mail/u/0/#inbox" rel = "nofollow">
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
   </a>  
   <a href = "https://t.me/AndreyVoronkov9" rel="nofollow">
