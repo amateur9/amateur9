@@ -1,6 +1,4 @@
-## Hi there 👋 I'm Andrey:| 
-<h2 align= "center"> Title </h2>
-<p style="text-align: center;"> ### A piece of centered text</p>
+<h2 align= "center"> Hi there 👋 I'm Andrey </h2>
 
 <!--
 **amateur9/amateur9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
