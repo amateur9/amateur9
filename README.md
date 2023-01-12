@@ -16,10 +16,6 @@
 <p> What I've been working with: </p>
 
 <p>
-  <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style = "max-width: 10%;">
-</p>
-  
-<p>
   <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" style="max-width: 100%;">
   <img src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="max-width: 100%;">
   <img src = "https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" style="max-width: 100%;">
