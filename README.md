@@ -1,5 +1,6 @@
 <h2 align = "center"> Hi there 👋 I'm Andrey </h2>
-<p align = "center"> a beginner specialist in data analysis and ML </p>
+<p align = "center"> A beginner specialist in data analysis and ML. </p>
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 
 <!--
