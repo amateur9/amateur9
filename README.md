@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Andrey
+### <p style="text-align: center;">Hi there 👋 I'm Andrey </p>
 
 <!--
 **amateur9/amateur9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
