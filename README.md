@@ -12,7 +12,7 @@
 
 <p> What I've been working with: </p>
 
-<p align = "center"> ![Image alt](https://github.com/amateur9/amateur9/blob/main/Port.PNG) </p>
+![Image alt](https://github.com/amateur9/amateur9/blob/main/Port.PNG)
 
 <details>
   <summary><g-emoji class="g-emoji" alias="page_with_curl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png">📃</g-emoji> Education</summary>
