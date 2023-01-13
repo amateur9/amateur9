@@ -53,6 +53,10 @@
 <p align = "center"> 📫 How to reach me: andreyvoronkov1999@gmail.com </p>
 
 <p align = "center" dir = "auto">
+  <g-emoji class = "g-emoji" alias="mailbox" 📫 How to reach me: <a href = "mailto:andreyvoronkov1999@gmail.com">andreyvoronkov1999@gmail.com</a>
+</p>
+
+<p align = "center" dir = "auto">
   <a href = "https://wa.me/79304175359" rel = "nofollow">
     <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="max-width: 100%;">
   </a>  
