@@ -29,6 +29,30 @@
   <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" style="max-width: 100%;">
 </p>
 
+<details>
+  <summary><g-emoji class="g-emoji" alias="page_with_curl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png">📃</g-emoji> Education</summary>
+  
+<ul dir="auto">
+<li> 📖 <strong> ML fundamental tools and practices </strong>
+<img align = "right" src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="max-width: 100%;"> <br>
+📆 2022 - 2023<br>
+📍 <strong>EP Netology </strong> - Moscow, Russia </li>
+</ul>
+  
+<ul dir="auto">
+<li><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> <strong>Cross Mobile Developer</strong><br>
+<g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji> 2021 - oct/2021<br>
+<g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">📍</g-emoji> <strong>Avanade</strong> - São Paulo/SP, Brazil</li>
+</ul>
+  
+<ul dir="auto">
+<li><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> <strong>Cross Mobile Developer</strong><br>
+<g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji> 2021 - oct/2021<br>
+<g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">📍</g-emoji> <strong>Avanade</strong> - São Paulo/SP, Brazil</li>
+</ul>
+  
+</details>
+
 <p align = "center"> 📫 How to reach me: andreyvoronkov1999@gmail.com </p>
 
 <p align = "center" dir = "auto">
