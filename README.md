@@ -50,10 +50,8 @@
   
 </details>
 
-<p align = "center"> 📫 How to reach me: andreyvoronkov1999@gmail.com </p>
-
-<p align = "center" dir = "auto">
-  <g-emoji class = "g-emoji" alias="mailbox" 📫 How to reach me: <a href = "mailto:andreyvoronkov1999@gmail.com">andreyvoronkov1999@gmail.com</a>
+<p align="center" dir="auto">
+  <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="mailto:andreyvoronkov1999@gmail.com">andreyvoronkov1999@gmail.com</a>
 </p>
 
 <p align = "center" dir = "auto">
