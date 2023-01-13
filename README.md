@@ -47,7 +47,18 @@
 📆 2022 - 2023<br>
 📍 <strong>EP Netology </strong> - Moscow, Russia </li>
 </ul>
+</details>
+
+<details>
+  <summary><g-emoji class="g-emoji" alias="page_with_curl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png">📝</g-emoji> Resume and portfolio </summary>
   
+<ul dir = "auto">
+📖 <strong> Resume: </strong> https://disk.yandex.ru/i/bEQrpWINs5y6Bg
+</ul>
+  
+<ul dir = "auto">
+📖 <strong> Portfolio: </strong> https://disk.yandex.ru/i/4Z-aJp4Kg_v_mQ
+</ul>
 </details>
 
 <p align="center" dir="auto">
