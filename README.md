@@ -34,6 +34,11 @@
   
 <ul dir="auto">
 <li> 📖 <strong> ML fundamental tools and practices </strong>
+<img align = "right" src = "https://camo.githubusercontent.com/48af9be4f055bed48664fbfcf66cb051bde7c6cbf18e0221be67f2f53aed035c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f6674253230457863656c2d3231373334363f6c6f676f3d6d6963726f736f66742d657863656c266c6f676f436f6c6f723d7768697465">
+<img align = "right" src = "https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" style="max-width: 100%;">
+<img align = "right" src = "https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" style="max-width: 100%;">
+<img align = "right" src = "https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" style="max-width: 100%;">
+<img align = "right" src = "https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" style="max-width: 100%;">
 <img align = "right" src = "https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" style="max-width: 100%;"> <br>
 📆 2022 - 2023<br>
 📍 <strong>EP Netology </strong> - Moscow, Russia </li>
