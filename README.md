@@ -1,5 +1,5 @@
 <h1 align = "center"> Hi there 👋 I'm Andrey </h1>
-<p align = "center"> A beginner specialist in data analysis and ML. </p>
+<p align = "center"> A beginner specialist in data analysis and ML </p>
 
 <p align = "center" dir = "auto">
   <a href = "https://www.hackerrank.com/dashboard" rel="nofollow">
@@ -12,7 +12,9 @@
 
 <p> What I've been working with: </p>
 
-![Image alt](https://github.com/amateur9/amateur9/blob/main/Port.PNG)
+<p align="center">
+  <img src="https://github.com/amateur9/amateur9/blob/main/Port.PNG" />
+</p>
 
 <details>
   <summary><g-emoji class="g-emoji" alias="page_with_curl" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c3.png">📃</g-emoji> Education</summary>
